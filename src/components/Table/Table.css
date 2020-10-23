@@ -1,0 +1,21 @@
+.dataTable {
+    margin-top: 20px;
+    overflow: scroll;
+    height: 400px;
+    overflow-x: auto;
+    color: #6a5d5d;
+}
+
+.dataTable tr:nth-of-type(odd) {
+    background-color: #f3f2f8;
+}
+
+.dataTable tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dataTable td {
+    padding: 0.5rem;
+    border: none;
+}
