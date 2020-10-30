@@ -5,7 +5,7 @@
 - [Clint Site Code](https://github.com/MinhazulHasan/covid-19-tracker "Click For View Clint Site Code")
 ***
 ## Description
-Single page web application where you can get the all the information about the COVID-19 in intire world. It also provide particular country's information by selecting the country from dropdown. It has a awesome graph functionality with interactive look. It can show you the Coronavirus Cases, Recovered Cases and also the Death Cases.
+Single page web application where you can get all the information about the COVID-19 in the entire world. It also provides a particular country's information by selecting the country from the dropdown. It has an awesome graph functionality with an interactive look. It can show you the Coronavirus Cases, Recovered Cases, and also the Death Cases.
 ***
 ## Functionality
 - Exclusive Looking UI
